@@ -1,0 +1,4 @@
+dist
+node_modules
+output.csv
+source.txt
